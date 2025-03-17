@@ -22,15 +22,10 @@ cd elanettoDesign
 ```<language>
 npm install
 ```
-This will install dependencies for both frontend and backend because the project is set up with workspaces.
+This will install dependencies for both frontend and backend because the project is set up with workspaces. You might need to do this inside both the frontend and backend folders.
 
 4. Start the development server:
 ```<language>
 npm run dev
-```
-
-5. Before you commit, remember to package your vite dist folder:
-```<language>
-npm run build
 ```
 
