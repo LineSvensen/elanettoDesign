@@ -22,6 +22,7 @@ cd elanettoDesign
 ```<language>
 npm install
 ```
+This will install dependencies for both frontend and backend because the project is set up with workspaces.
 
 4. Start the development server:
 ```<language>
